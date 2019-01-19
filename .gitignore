@@ -107,4 +107,4 @@ venv.bak/
 static/* linguist-vendored
 docs/* linguist-documentation
 
-*.py linguist-language=Html
+*.py linguist-language=JAVA
