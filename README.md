@@ -2,7 +2,7 @@
 Türkiye'deki şehirlerin nüfuslarını harita üzerinde gösteren python uygulaması
 
 
-Şehirlerin nüfusları https://www.nufusu.com'dan çekilmiştir.  
+Şehirlerin nüfusları https://www.nufusu.com 'dan çekilmiştir.  
 Nüfus verileri 2017 yılına aittir.    
 
 Popup renkleri ve şehir sınırlarının renklendirmesi nufus sayımına göre yapılmıştır.  
