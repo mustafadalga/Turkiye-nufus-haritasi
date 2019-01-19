@@ -36,7 +36,7 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Unit test / coverage reports
-htmlcov/
+htmlcov/* linguist-vendored
 .tox/
 .coverage
 .coverage.*
@@ -102,9 +102,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
-
-static/* linguist-vendored
-docs/* linguist-documentation
-
-*.py linguist-language=JAVA
